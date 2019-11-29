@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/level/menuawal.unity
+    guid: 530073da0dca3c045ac138233f6a51b0
+  - enabled: 1
+    path: Assets/level/scene1.unity
+    guid: 34b03503ea3b66a458d53d3d332e15d8
+  - enabled: 1
+    path: Assets/level/sceneabout.unity
+    guid: 8f9db2e537d070647825af0df6e2f914
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Gameplay2.unity
+    guid: 094e6ac4a886c1d4d91f42fa3ad760fe
+  - enabled: 1
+    path: Assets/Scenes/Gameplay3.unity
+    guid: 4d77b641d92e37e4ba3edb28d80a7b32
+  - enabled: 1
+    path: Assets/Scenes/Nextlevel.unity
+    guid: e18657443963795479624df4273269cb
+  - enabled: 1
+    path: Assets/level/scene2.unity
+    guid: 2749975e102122a45a828b3463a3b7ba
+  - enabled: 1
+    path: Assets/level/scene3.unity
+    guid: 9e36dc0c27a51f74ca8a19097cc7b39a
+  - enabled: 1
+    path: Assets/Scenes/Gameover.unity
+    guid: 4999e7062ee0c6e4a860af0233539bc3
+  - enabled: 1
+    path: Assets/Scenes/Nextlevel2.unity
+    guid: 58fcda799d07dc24393e44efbb7b494c
+  - enabled: 1
+    path: Assets/Scenes/Score.unity
+    guid: 944b8e60ae5b74b47ba7487a4d88e780
+  - enabled: 1
+    path: Assets/Scenes/Score2.unity
+    guid: c3d334d57ddb75545878f4bdef7c365b
+  - enabled: 1
+    path: Assets/Scenes/Score3.unity
+    guid: 15740fdd8fcc5174aa90fce415480273
+  m_configObjects: {}
